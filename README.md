@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gulmohdcoder
+- 👋 Hi, I’m @Iamgulmd
 - 👀 I’m interested in ...Web developer
 - 🌱 I’m currently learning ...web development from udemy
 - 💞️ I’m looking to collaborate on ...as a web developer
